@@ -2,4 +2,8 @@ Nova Linha Fetch LOCAL Repo 2
 
 Nova Linha Fetch REMOTE Repo 2
 
+<<<<<<< HEAD
 Nova Linha Fetch LOCAL Repo 3
+=======
+Nova Linha Fetch REMOTE Repo 3
+>>>>>>> origin/main
